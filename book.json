@@ -1,1 +1,27 @@
-{}
+{
+  "root": ".",
+  "title": "Lebendige Projektdokumentationen",
+  "description": "",
+  "author": "David Schwarzmann",
+  "isbn": "",
+  "language": "de",
+  "direction": "ltr",
+  "gitbook": "^3.2.3",
+  "plugins": [
+    "pretty-term"
+  ],
+  "pluginsConfig": {},
+  "structure": {},
+  "pdf": {
+    "pageNumbers": true,
+    "fontSize": 12,
+    "fontFamily": "Roboto",
+    "paperSize": "a4",
+    "margin": {
+      "top": 56,
+      "bottom": 56,
+      "right": 62,
+      "left": 62
+    }
+  }
+}
