@@ -1,0 +1,5 @@
+# Literaturverzeichnis
+
+{% references %}
+
+{% endreferences %}

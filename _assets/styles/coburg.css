@@ -3,12 +3,23 @@
 
 }
 
-.book.font-family-1 {
+.book.font-family-1,
+.book-summary {
   font-family: 'Roboto', sans-serif;
 }
 
 .book-summary ul.summary li.active>a {color: #E00034;}
 
-ul.summary li.chapter>a {
-  margin-left: 1.6em;
+ul.summary li.chapter>a,
+ul.summary li.chapter>span {
+  margin-left: 1em;
+}
+
+
+ul.summary li.chapter>span {
+  padding: 10px 15px;
+  padding-top: 20px;
+  text-transform: uppercase;
+  color: #939da3;
+  margin-left: unset;
 }

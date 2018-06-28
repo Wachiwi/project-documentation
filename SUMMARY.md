@@ -12,6 +12,7 @@
 
 ## Grundlagen
 
+* [Grundlagen]()
   * [Gitbook](grundlagen/gitbook.md)
   * [HTML und JavaScript](grundlagen/html_js.md)
   * [Handelbars Templating](grundlagen/templating.md)
@@ -27,3 +28,13 @@
 
   * [Fazit](fazit/fazit.md)
   * [Ausblick](fazit/ausblick.md)
+
+---
+
+* [Literaturverzeichnis](Literature.md)
+
+## Anhang
+
+* [Literaturverzeichnis](Literature.md)
+* [Literaturverzeichnis](Literature.md)
+* [Literaturverzeichnis](Literature.md)
