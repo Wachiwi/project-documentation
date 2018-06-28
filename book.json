@@ -8,7 +8,8 @@
   "direction": "ltr",
   "gitbook": "^3.2.3",
   "plugins": [
-    "pretty-term"
+    "pretty-term",
+    "bibtex-citations-and-references"
   ],
   "pluginsConfig": {},
   "structure": {},
