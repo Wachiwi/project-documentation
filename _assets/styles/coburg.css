@@ -23,3 +23,11 @@ ul.summary li.chapter>span {
   color: #939da3;
   margin-left: unset;
 }
+
+body > div > div.book-summary > nav > ul > li > a > img {
+  margin-left: 1em;
+}
+
+#book-search-results > div.search-noresults > section.normal.markdown-section > p {
+  text-align: justify;
+}

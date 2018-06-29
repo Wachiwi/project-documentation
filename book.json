@@ -8,8 +8,11 @@
   "direction": "ltr",
   "gitbook": "^3.2.3",
   "plugins": [
+    "-fontsettings",
+    "-sharing",
     "pretty-term",
-    "bibtex-citations-and-references"
+    "bibtex-citations-and-references",
+    "plantuml-svg"
   ],
   "pluginsConfig": {},
   "structure": {},

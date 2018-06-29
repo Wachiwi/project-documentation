@@ -7,12 +7,11 @@
 
   * [Hintergrund](einleitung/hintergrund.md)
   * [Projektkontext](einleitung/projektkontext.md)
-  * [Dokumentstruktur](einleitung/struktur.md)
   * [Relevanz und Abgrenzung](einleitung/relevanz.md)
+  * [Dokumentstruktur](einleitung/struktur.md)
 
 ## Grundlagen
 
-* [Grundlagen]()
   * [Gitbook](grundlagen/gitbook.md)
   * [HTML und JavaScript](grundlagen/html_js.md)
   * [Handelbars Templating](grundlagen/templating.md)
@@ -35,6 +34,6 @@
 
 ## Anhang
 
-* [Literaturverzeichnis](Literature.md)
-* [Literaturverzeichnis](Literature.md)
-* [Literaturverzeichnis](Literature.md)
+* [Anhang 1](Anhang/a1.md)
+* [Anhang 2](Anhang/a2.md)
+* [Anhang 3](Anhang/a3.md)
