@@ -16,14 +16,14 @@
   * [HTML, CSS & JavaScript](grundlagen/html_js.md)
   * [Git](grundlagen/git.md)
   * [Gitbook](grundlagen/gitbook.md)
-  * [Nunjuck Templating](grundlagen/templating.md)
-  * [Infrastruktur](grundlagen/infrastruktur.md)
 
 ## Kern
 
   * [Projektstruktur](hauptteil/projektstruktur.md)
   * [Bewertungskriterien](hauptteil/bewertungskriterien.md)
   * [Styling](hauptteil/styling.md)
+  * [Theming](hauptteil/theming.md)
+  * [Infrastruktur](hauptteil/infrastruktur.md)
 
 ## Fazit & Ausblick
 
