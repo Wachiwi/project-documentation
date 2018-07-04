@@ -11,10 +11,14 @@
     "-fontsettings",
     "-sharing",
     "pretty-term",
-    "bibtex-citations-and-references",
+    "bibtex-indexed-cite",
     "plantuml-svg"
   ],
-  "pluginsConfig": {},
+  "pluginsConfig": {
+    "bibtex-indexed-cite": {
+      "path": "./literature.bib"
+    }
+  },
   "structure": {},
   "pdf": {
     "pageNumbers": true,

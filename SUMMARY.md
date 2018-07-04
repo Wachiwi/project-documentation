@@ -12,9 +12,11 @@
 
 ## Grundlagen
 
+  * [Markdown](grundlagen/markdown.md)
+  * [HTML, CSS & JavaScript](grundlagen/html_js.md)
+  * [Git](grundlagen/git.md)
   * [Gitbook](grundlagen/gitbook.md)
-  * [HTML und JavaScript](grundlagen/html_js.md)
-  * [Handelbars Templating](grundlagen/templating.md)
+  * [Nunjuck Templating](grundlagen/templating.md)
   * [Infrastruktur](grundlagen/infrastruktur.md)
 
 ## Kern
