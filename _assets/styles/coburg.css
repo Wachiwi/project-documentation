@@ -24,10 +24,29 @@ ul.summary li.chapter>span {
   margin-left: unset;
 }
 
-body > div > div.book-summary > nav > ul > li > a > img {
-  margin-left: 1em;
-}
-
 #book-search-results > div.search-noresults > section.normal.markdown-section > p {
   text-align: justify;
+}
+
+body > div > div.book-summary > nav > ul > li:last-child {
+  max-width: 300px;
+
+}
+
+body > div > div.book-summary > nav > ul > li:last-child > p {
+  text-align: justify;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+body > div > div.book-summary > nav > ul > li:last-child > a {
+  margin-left: 30px;
+  margin-right: 30px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+body > div > div.book-summary > nav > ul > li:last-child > a img {
+
+  width: 240px;
 }
