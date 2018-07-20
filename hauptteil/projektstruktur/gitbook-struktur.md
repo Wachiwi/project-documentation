@@ -1,4 +1,4 @@
-## Vorgegebene Struktur
+## Gitbook Struktur
 
 Wie oben schon erwähnt, sind die Dateien \_book.json, SUMMARY.md, README.md \_und GLOSSARY.md und deren Bedeutung durch Gitbook vorgegeben. Jede dieser Dateien hat eine spezielle Bedeutung in einem Gitbook, welche nun erläutert werden soll.
 
