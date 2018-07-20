@@ -28,3 +28,13 @@ $ tree -L 1 .                                                                   
 
 
 
+## Vorgegebene Struktur
+
+
+
+
+
+## Eigene Struktur
+
+
+
