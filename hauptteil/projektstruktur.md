@@ -30,7 +30,7 @@ $ tree -L 1 .                                                                   
 
 Wie oben schon erwähnt, sind die Dateien \_book.json, SUMMARY.md, README.md \_und GLOSSARY.md und deren Bedeutung durch Gitbook vorgegeben. Jede dieser Dateien hat eine spezielle Bedeutung in einem Gitbook, welche nun erläutert werden soll.
 
-### _SUMMARY.md_
+**SUMMARY.md**
 
 Die Datei _SUMMARY.md_ hat die Funktion des Inhaltsverzeichnisses und spiegelt dieses in einer textuellen Beschreibung wieder. Darin werden die Namen der Einträge des Inhaltsverzeichnisses auf Dateien mit dem entsprechenden Inhalt abgebildet. Eine beispielsweise Datei für den Inhalt ist im folgenden Ausschnitt dargestellt. Wie alle anderen Dokumente werden die
 
@@ -82,13 +82,15 @@ Die Datei _SUMMARY.md_ hat die Funktion des Inhaltsverzeichnisses und spiegelt d
 
 Hierbei können die einzelnen Hierarchieebenen durch eine eingerückte Liste oder durch Markdown-Überschriften in Abschnitte und Kapitel unterteilt werden. Dabei entsprechen Listen unter den entsprechenden Überschriften Kapiteln der zweiten Hierarchieebene. Die Form der Menüpunkte ist dabei in Form von Links dargestellt. Das Format \`\* \[Titel\]\(Datei\)\` ist so aufgebaut, dass in den eckigen Klammern der Titel steht, welcher in dem Inhaltsverzeichnis angezeigt werden soll. Darauf kommt in den runden Klammern der relative Pfad zur Datei, in der der Inhalt zu dem entsprechenden Inhaltsverzeichnis gespeichert ist.
 
-### _README.md_
+**README.md**
+
+Die Datei README.md erfüllt nach Gitbook die Funktion der Kurzübersicht über den Inhalt zu geben. Daher eignet sich diese Datei besonders für Abstracts.
+
+**GLOSSARY.md**
+
+_**book.json**_
 
 
-
-### _GLOSSARY.md_
-
-### _book.json_
 
 ## Eigene Struktur
 
