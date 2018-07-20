@@ -28,7 +28,7 @@ $ tree -L 1 .                                                                   
 
 ## 
 
-## Eigene Struktur
+## 
 
 
 
