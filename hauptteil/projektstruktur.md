@@ -1,8 +1,6 @@
 # Projektstruktur
 
-Die Projektstruktur baut auf der standardmäßigen Struktur von Gitbook auf. 
-
-
+Die Projektstruktur baut auf der standardmäßigen Struktur von Gitbook auf. Dabei sind relevante Dateien und Ordner die Dateien _book.json, SUMMARY.md, README.md _und_ GLOSSARY.md._ Diese geben die dir Grundstruktur vor, welche durch die Ordner _ _
 
 ```
 $ tree -L 1 .                                                                                                                                                                     ‹2.5.0›  09:15:45
@@ -17,14 +15,13 @@ $ tree -L 1 .                                                                   
 ├── _layouts
 ├── book.json
 ├── einleitung
-├── etc
 ├── fazit
 ├── grundlagen
 ├── hauptteil
 ├── literature.bib
 └── node_modules
 
-9 directories, 7 files
+8 directories, 7 files
 ```
 
 
