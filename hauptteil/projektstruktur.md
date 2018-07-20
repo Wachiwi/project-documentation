@@ -26,9 +26,5 @@ $ tree -L 1 .                                                                   
 8 directories, 7 files
 ```
 
-## 
-
-## 
-
 
 
