@@ -12,7 +12,8 @@
     "-sharing",
     "pretty-term",
     "bibtex-indexed-cite",
-    "plantuml-svg"
+    "plantuml-svg",
+    "code-captions"
   ],
   "pluginsConfig": {
     "bibtex-indexed-cite": {
