@@ -88,9 +88,9 @@ Die Datei README.md erfüllt nach Gitbook die Funktion der Kurzübersicht über 
 
 **GLOSSARY.md**
 
+
+
 _**book.json**_
-
-
 
 ## Eigene Struktur
 
