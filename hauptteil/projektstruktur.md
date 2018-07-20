@@ -80,7 +80,7 @@ Die Datei _SUMMARY.md_ hat die Funktion des Inhaltsverzeichnisses und spiegelt d
 * [Anhang 3](Anhang/a3.md)
 ```
 
-Hierbei können die einzelnen Hierarchieebenen durch eine eingerückte Liste oder durch Markdown-Überschriften in Abschnitte und Kapitel unterteilt werden. Dabei entsprechen Listen unter den entsprechenden Überschriften Kapiteln der zweiten Hierarchieebene. Die Form der Menüpunkte ist dabei in Form von Links dargestellt. Das Format \`\* \[Titel\]\(Datei\)\` ist so aufgebaut, dass in den eckigen Klammern der Titel 
+Hierbei können die einzelnen Hierarchieebenen durch eine eingerückte Liste oder durch Markdown-Überschriften in Abschnitte und Kapitel unterteilt werden. Dabei entsprechen Listen unter den entsprechenden Überschriften Kapiteln der zweiten Hierarchieebene. Die Form der Menüpunkte ist dabei in Form von Links dargestellt. Das Format \`\* \[Titel\]\(Datei\)\` ist so aufgebaut, dass in den eckigen Klammern der Titel steht, welcher in dem Inhaltsverzeichnis angezeigt werden soll. Darauf kommt in den runden Klammern der relative Pfad zur Datei, in der der Inhalt zu dem entsprechenden Inhaltsverzeichnis gespeichert ist. 
 
 ### _README.md_
 
