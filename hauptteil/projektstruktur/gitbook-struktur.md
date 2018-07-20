@@ -60,7 +60,13 @@ Die Datei README.md erfüllt nach Gitbook die Funktion der Kurzübersicht über 
 
 **GLOSSARY.md**
 
-Die GLOSSARY.md Datei ist eine Hilfsdatei, die einen Glossar beinhaltet und die Verwendung der Glossarbegriffe in allen Inhalten verknüpft. Hierbei ist zu beachten, dass die Glossarbegriffe in einer entsprechenden Form notiert werden müssen. Die Glossarbegriffe müssen in Markdown mit einer Überschrift der zweiten Ebene beschrieben werden. Der darauf folgende Absatz ist dann die Beschreibung des Glossarbegriffs.
+Die GLOSSARY.md Datei ist eine Hilfsdatei, die einen Glossar beinhaltet und die Verwendung der Glossarbegriffe in allen Inhalten verknüpft. Hierbei ist zu beachten, dass die Glossarbegriffe in einer entsprechenden Form notiert werden müssen. Die Glossarbegriffe müssen in Markdown mit einer Überschrift der zweiten Ebene beschrieben werden. Der darauf folgende Absatz ist dann die Beschreibung des Glossarbegriffs. Wie dieser Glossarbegriff dann im Text verwendet wird ist in der unten dargestellten Grafik dargestellt.
+
+
+
+![](/img/glossar-use.png)
 
 _**book.json**_
+
+Dies ist die wichtigste Date in einem Gitbook, da sie alle
 
