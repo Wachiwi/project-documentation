@@ -32,9 +32,9 @@ Wie oben schon erwähnt, sind die Dateien \_book.json, SUMMARY.md, README.md \_u
 
 ### _SUMMARY.md_
 
-Die Datei _SUMMARY.md_ hat die Funktion des Inhaltsverzeichnisses und spiegelt dieses in einer textuellen Beschreibung wieder. Darin werden die Namen der Einträge des Inhaltsverzeichnisses auf Dateien mit dem entsprechenden Inhalt abgebildet. Eine beispielsweise Datei für den Inhalt ist im folgenden Ausschnitt dargestellt. Wie alle anderen Dokumente werden die 
+Die Datei _SUMMARY.md_ hat die Funktion des Inhaltsverzeichnisses und spiegelt dieses in einer textuellen Beschreibung wieder. Darin werden die Namen der Einträge des Inhaltsverzeichnisses auf Dateien mit dem entsprechenden Inhalt abgebildet. Eine beispielsweise Datei für den Inhalt ist im folgenden Ausschnitt dargestellt. Wie alle anderen Dokumente werden die
 
-!CAPTION Beispielhafte SUMMARY.md 
+!CAPTION Beispielhafte SUMMARY.md
 
 ```
 # Summary
@@ -80,7 +80,7 @@ Die Datei _SUMMARY.md_ hat die Funktion des Inhaltsverzeichnisses und spiegelt d
 * [Anhang 3](Anhang/a3.md)
 ```
 
-Hierbei können die einzelnen Hierarchieebenen durch eine eingerückte Liste oder durch Markdown-Überschriften in Abschnitte und Kapitel unterteilt werden. 
+Hierbei können die einzelnen Hierarchieebenen durch eine eingerückte Liste oder durch Markdown-Überschriften in Abschnitte und Kapitel unterteilt werden.
 
 ### _README.md_
 
