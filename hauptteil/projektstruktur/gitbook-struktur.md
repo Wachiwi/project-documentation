@@ -70,5 +70,46 @@ Dies ist die wichtigste Datei in einem Gitbook, da sie alle Konfigurationsinform
 
 
 
+!CAPTION Beispielhafter Inhalt einer _book.json_-Datei
+
+```
+{
+  "root": ".",
+  "title": "Lebendige Projektdokumentationen mit Hilfe von GitBook",
+  "description": "",
+  "author": "David Schwarzmann",
+  "isbn": "",
+  "language": "de",
+  "direction": "ltr",
+  "gitbook": "^3.2.3",
+  "plugins": [
+    "-fontsettings",
+    "-sharing",
+    "pretty-term",
+    "bibtex-indexed-cite",
+    "plantuml-svg",
+    "code-captions"
+  ],
+  "pluginsConfig": {
+    "bibtex-indexed-cite": {
+      "path": "./literature.bib"
+    }
+  },
+  "structure": {},
+  "pdf": {
+    "pageNumbers": true,
+    "fontSize": 12,
+    "fontFamily": "Roboto",
+    "paperSize": "a4",
+    "margin": {
+      "top": 56,
+      "bottom": 56,
+      "right": 62,
+      "left": 62
+    }
+  }
+}
+```
+
 
 
