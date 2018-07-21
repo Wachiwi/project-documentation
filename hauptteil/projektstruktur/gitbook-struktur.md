@@ -66,5 +66,9 @@ Die GLOSSARY.md Datei ist eine Hilfsdatei, die einen Glossar beinhaltet und die 
 
 _**book.json**_
 
-Dies ist die wichtigste Datei in einem Gitbook, da sie alle Konfigurationsinformationen enthält, die für die Erstellung des Gitbooks notwendig sind. Die Konfigurationsinformationen unterscheiden sich hierbei unter Metainformationen und 
+Dies ist die wichtigste Datei in einem Gitbook, da sie alle Konfigurationsinformationen enthält, die für die Erstellung des Gitbooks notwendig sind. Die Konfigurationsinformationen unterscheiden sich hierbei in Metain- und Plugininformationen. An sich kann auch über eine Konfigurationsoption, die Bedeutung der vorher genannten Dateien, wie SUMMARY.md überschrieben werden.
+
+
+
+
 
