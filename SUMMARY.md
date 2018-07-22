@@ -37,7 +37,7 @@
 
 ## Anhang
 
-* [Anhang 1](Anhang/a1.md)
-* [Anhang 2](Anhang/a2.md)
-* [Anhang 3](Anhang/a3.md)
+* [Anhang 1](anhang/a1.md)
+* [Anhang 2](anhang/a2.md)
+* [Anhang 3](anhang/a3.md)
 
