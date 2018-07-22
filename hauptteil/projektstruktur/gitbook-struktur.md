@@ -114,6 +114,7 @@ Die erste Option ist die Konfigurationsvariable `root`, welche beschreibt, welch
 
 Darauf folgen die Konfigurationsvariablen `title`, `description` und `author`. Diese geben, wie der Name der Variablen andeutet, die Mögichkeit den Titel und die Beschreibung zu setzen. Das Feld des Autors ist an sich nur für eine Person gedacht, kann jedoch auch für mehrere Autoren verwendet werden, die dann beispielsweise durch ein Komma getrennt werden.
 
+Als nächstes 
 
 
 
