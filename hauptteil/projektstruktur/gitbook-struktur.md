@@ -1,6 +1,6 @@
 ## Gitbook Struktur
 
-Wie oben schon erwähnt, sind die Dateien \_book.json, SUMMARY.md, README.md \_und GLOSSARY.md und deren Bedeutung durch Gitbook vorgegeben. Jede dieser Dateien hat eine spezielle Bedeutung in einem Gitbook, welche nun erläutert werden soll {{ "Gitbook2018b" \| cite }}.
+Wie oben schon erwähnt, sind die Dateien _book.json_, _SUMMARY.md_, _README.md_ und _GLOSSARY.md_ und deren Bedeutung durch Gitbook vorgegeben. Jede dieser Dateien hat eine spezielle Bedeutung in einem Gitbook, welche nun erläutert werden soll {{ "Gitbook2018b" | cite }}.
 
 **SUMMARY.md**
 
@@ -109,6 +109,12 @@ Dies ist die wichtigste Datei in einem Gitbook, da sie alle Konfigurationsinform
   }
 }
 ```
+
+Die erste Option ist die Konfigurationsvariable `root`, welche beschreibt, welches Verzeichnis das Wurzelverzeichnis des Gitbooks ist. Dies ist relevant, damit Gitbook notwendige Dateien bzw. Verzeichnisse automatisch finden bzw. anlegen kann. 
+
+Darauf folgen die Konfigurationsvariablen `title`, `description` und `author`. Diese geben, wie der Name der Variablen andeutet, die Mögichkeit den Titel und die Beschreibung zu setzen. Das Feld des Autors ist an sich nur für eine Person gedacht, kann jedoch auch für mehrere Autoren verwendet werden, die dann beispielsweise durch ein Komma getrennt werden.
+
+
 
 
 
