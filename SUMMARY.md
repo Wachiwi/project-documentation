@@ -13,7 +13,6 @@
 ## Grundlagen
 
 * [Markdown](grundlagen/markdown.md)
-* [HTML, CSS & JavaScript](grundlagen/html_js.md)
 * [Git](grundlagen/git.md)
 * [Gitbook](grundlagen/gitbook.md)
 
