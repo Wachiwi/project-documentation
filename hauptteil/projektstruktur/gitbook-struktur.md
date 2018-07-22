@@ -1,6 +1,6 @@
 ## Gitbook Struktur
 
-Wie oben schon erwähnt, sind die Dateien \_book.json, SUMMARY.md, README.md \_und GLOSSARY.md und deren Bedeutung durch Gitbook vorgegeben. Jede dieser Dateien hat eine spezielle Bedeutung in einem Gitbook, welche nun erläutert werden soll.
+Wie oben schon erwähnt, sind die Dateien \_book.json, SUMMARY.md, README.md \_und GLOSSARY.md und deren Bedeutung durch Gitbook vorgegeben. Jede dieser Dateien hat eine spezielle Bedeutung in einem Gitbook, welche nun erläutert werden soll {{ "Gitbook2018b" \| cite }}.
 
 **SUMMARY.md**
 
@@ -67,8 +67,6 @@ Die GLOSSARY.md Datei ist eine Hilfsdatei, die einen Glossar beinhaltet und die 
 _**book.json**_
 
 Dies ist die wichtigste Datei in einem Gitbook, da sie alle Konfigurationsinformationen enthält, die für die Erstellung des Gitbooks notwendig sind. Die Konfigurationsinformationen unterscheiden sich hierbei in Metain- und Plugininformationen. An sich kann auch über eine Konfigurationsoption, die Bedeutung der vorher genannten Dateien, wie SUMMARY.md überschrieben werden.
-
-
 
 !CAPTION Beispielhafter Inhalt einer _book.json_-Datei
 
