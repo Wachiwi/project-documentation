@@ -13,7 +13,8 @@
     "pretty-term",
     "bibtex-indexed-cite",
     "plantuml-svg",
-    "code-captions"
+    "code-captions",
+    "image-captions"
   ],
   "pluginsConfig": {
     "bibtex-indexed-cite": {
