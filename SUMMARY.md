@@ -16,7 +16,7 @@
 * [Git](grundlagen/git.md)
 * [Gitbook](grundlagen/gitbook.md)
 
-## Kern
+## Einsatz von Gitbook
 
 * [Projektstruktur](hauptteil/projektstruktur.md)
   * [Gitbook Struktur](hauptteil/projektstruktur/gitbook-struktur.md)
