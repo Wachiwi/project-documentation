@@ -1,4 +1,4 @@
-g## Verzeichnisse
+## Verzeichnisse
 
 Für eine bessere Übersicht und eine Referenzierbarkeit einzelner Komponenten ist es notwendig, dass Tabellen, Abbildungen, Quellcodeausschnitte nummeriert und in entsprechenden Verzeichnisse zusammegefasst werden. Nach der angepassten Richtliniendefinition sind neben den bereits genannten auch das Literaturverzeichnis, der Glossar und die Ehrenwörtliche Erklärung pflicht. 
 
