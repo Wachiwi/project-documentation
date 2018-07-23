@@ -28,4 +28,4 @@ Weiter soll nach `2.3` der Richtlinien ein Dokument notwendige Verzeichnisse ent
 - Anhang
 - Ehrenwörtliche Erklärung*
 
-Dabei sind das Inhaltsverzeichnis, das Abbildungsverzeichnis, das Tabellenverzeichnis, das Abkürzungsverzeichnis, das Literaturverzeichnis und die Ehrenwörtliche Erklärung als verpflichtend gekennzeichnet
+Dabei sind das Inhaltsverzeichnis, das Abbildungsverzeichnis, das Tabellenverzeichnis, das Abkürzungsverzeichnis, das Literaturverzeichnis und die Ehrenwörtliche Erklärung als verpflichtend gekennzeichnet. Dies soll in der Gitbookvariante dahingehend geändert werden, dass auch der Glossar verpflichtend ist. 
