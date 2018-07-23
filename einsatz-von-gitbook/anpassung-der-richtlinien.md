@@ -2,7 +2,6 @@
 
 Wie vorhin schon erwähnt basieren die wissenschaftlichen Arbeiten des Informatik Studiengangs der Hochschule Coburg auf einem Richtliniendokument, welches gewisse Dinge vorgibt bzw. empfiehlt. Ob und in welchem Umfang Änderungen an diesen Vorgaben bzw. Empfehlungen vorgenommen werden sollen, soll im Folgenden genauer eläutert werden. Dabei sollen wesentliche Basissegmente des Dokuments hervorgehoben werden und ihre Position in dem hier beschrieben Proof of Concept erläutert werden. Der Fokus innerhalb des Richliniendokumentes, welches bei dieser Betrachtung in der version `2.1` vorlag, liegt auf dem Kapitel der formalen Richtlinien. {{ "Richtlinien2015" | cite }}
 
-
 Einerseits sind in den formalen Richtlinien die Abgabeformate enthalten, welche im folgenden Zitat für eine Bachelor bzw. Masterarbeit dargestellt sind.
 
 > 1 Papier-Exemplar beim Betreuer mit eingeklebter beschrifteter DVD/CD mit 
@@ -28,4 +27,6 @@ Weiter soll nach `2.3` der Richtlinien ein Dokument notwendige Verzeichnisse ent
 - Anhang
 - Ehrenwörtliche Erklärung*
 
-Dabei sind das Inhaltsverzeichnis, das Abbildungsverzeichnis, das Tabellenverzeichnis, das Abkürzungsverzeichnis, das Literaturverzeichnis und die Ehrenwörtliche Erklärung als verpflichtend gekennzeichnet. Dies soll in der Gitbookvariante dahingehend geändert werden, dass auch der Glossar verpflichtend ist. 
+Dabei sind das Inhaltsverzeichnis, das Abbildungsverzeichnis, das Tabellenverzeichnis, das Abkürzungsverzeichnis, das Literaturverzeichnis und die Ehrenwörtliche Erklärung als verpflichtend gekennzeichnet. Dies soll in der Gitbookvariante dahingehend geändert werden, dass auch der Glossar verpflichtend ist.
+
+Auf die Verzeichnisse folgend werden im Richtliniendokument Darstellungsweisen für Abbildungen, Quellcodeabschnitte und Tabellen vorgegebn bzw. empfohlen. Diese 
