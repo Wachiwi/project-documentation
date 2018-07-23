@@ -4,8 +4,11 @@ Ein wichtiger Punkt neben der Art und Weise der Dokumentation ist die Bereitstel
 
 In allen Fällen muss eine technische Infrastruktur innerhalb der Hochschule oder aus der Hochschule heraus ermöglicht werden, welche verwendet werden kann um im Rahmen der Hochschule Dokumente in verschiedenen Sichtbarkeitsebenen zur Verfügung zu stellen. Ein Vorschlag über Sichtbarkeitsebenen wären die Folgenden:
 
-- Privat: Nur für einen selbst und ausgwählte Personen verfügbar.
-- Authentifiziert: Für alle authentifizierten Personen, beispielsweise Hochschulmitglieder, verfügbar.
-- Öffentlich: Für alle Besucher der Plattform verfügbar.
+- **Privat**: Nur für einen selbst und ausgwählte Personen verfügbar.
+- **Authentifiziert**: Für alle authentifizierten Personen, beispielsweise Hochschulmitglieder, verfügbar.
+- **Öffentlich**: Für alle Besucher der Plattform verfügbar.
+
+Die bereits erwähnte Infrastruktur wäre in diesem Fall eine Softwareplattform, welche die Verwaltung von Dokumenten ermöglicht und auch gleichzeitig die Bereitstellung erledigt. 
+
 
 Das Dokument in Form einer Website oder eines PDFs ist in beiden Fällen ein statischer Inhalt, kann also durch einen Webserver statisch bereitgestellt werden. 
