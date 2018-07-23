@@ -1,10 +1,10 @@
-## Gitbook Struktur
+h## Gitbook Struktur
 
 Wie im vorherigen Abschnitt schon erwähnt, sind die Dateien _book.json_, _SUMMARY.md_, _README.md_ und _GLOSSARY.md_ und deren Bedeutung durch Gitbook initial vorgegeben. Jede dieser Dateien hat eine spezielle Bedeutung in einem Gitbook, welche nun erläutert werden soll {{ "Gitbook2018b" | cite }}.
 
 **SUMMARY.md**
 
-Die Datei _SUMMARY.md_ hat die Funktion des Inhaltsverzeichnisses und spiegelt dieses in einer textuellen Beschreibung wieder. Darin werden die Namen der Einträge des Inhaltsverzeichnisses auf Dateien mit dem entsprechenden Inhalt abgebildet. Eine beispielsweise Datei für den Inhalt ist im folgenden Ausschnitt dargestellt. Wie alle anderen Dokumente werden die
+Die Datei _SUMMARY.md_ hat die Funktion des Inhaltsverzeichnisses und spiegelt dieses in einer textuellen Beschreibung wieder. Darin werden die Namen der Einträge des Inhaltsverzeichnisses auf Dateien mit dem entsprechenden Inhalt abgebildet. Der Inhalt einer beispielaften Datei ist im folgenden Quellcodeausschnitt dargestellt. Wie alle anderen Dokumente werden die
 
 !CAPTION Beispielhafte SUMMARY.md
 
