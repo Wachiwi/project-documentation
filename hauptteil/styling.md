@@ -4,7 +4,7 @@ Der Bereich Styling orientiert sich an der visuellen Darstellung des Inhaltes. D
 
 Da die im Corporate Design verwendete Schriftart kommerziell ist, wird die Webschriftart des Designsguides verwendet, welche die Schrifart *Roboto* ist. Weiter gibt das Corporate Design die Farben _Rot_, mit dem Hexwert `#E00034`, _Dunkelgrau_, mit dem Hexwert `#4B565E`, und _Hellgrau_, mit dem Hexwert `#EAEBEB`, vor. Die Farbe Rot wird hierbei bei Verknüpfungen zwischen Seiten, die Farbe Dunkelgrau als allgemeine Schriftfarbe und das Hellgrau als Kontrastfarbe. {{ "HSCoburg2018" | cite }}
 
-Das Design wurde über ein CSS-Stylesheet auf das Gitbook angewendet, dessen relevante Inhalte in dem unten dargestellten Quellcodeausschnnitt dargestellt sind.
+Das Design wurde über ein CSS-Stylesheet auf das Gitbook angewendet, dessen relevante Inhalte in dem unten dargestellten Quellcodeausschnnitt dargestellt sind. Für die verschiedenen Formatvarianten Web und PDF, müssen auch unterschiedliche Arten von CSS geschrieben werden.
 
 !CAPTION Stylesheet für das Corporate Design
 ```
