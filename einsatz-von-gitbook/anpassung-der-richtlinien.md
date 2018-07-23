@@ -15,4 +15,17 @@ Einerseits sind in den formalen Richtlinien die Abgabeformate enthalten, welche 
 
 Relevante Informationen hierbei sind, dass sowohl der Orginaltext, als auch ein PDF benötigt wird. Weiter auch, dass ein deutsches und ein englisches Abstract in dem Dokument beinhaltet sein soll. Diese soll nur dahingehend verändert werden, dass anstatt eines Word-Dokuments bzw. des Latex-Codes das Gitbook-Projekt abgegeben wird.
 
-Weiter soll ein Dokument notwendige Verzeichnisse enthalten, damit eine bessere Übersicht über referenzierte Abbildungen, Tabellen etc. ermöglicht wird. 
+Weiter soll nach `2.3` der Richtlinien ein Dokument notwendige Verzeichnisse enthalten, damit eine bessere Übersicht über referenzierte Abbildungen, Tabellen etc. ermöglicht wird. Als Verzeichnisse werden hierbei die folgenden aufgeführt:
+
+- Inhaltsverzeichnis*
+- Abbildungsverzeichnis*
+- Tabellenverzeichnis*
+- Programmcodeverzeichnis
+- Symbolverzeichnis
+- Abkürzungsverzeichnis*
+- Literaturverzeichnis*
+- Glossar
+- Anhang
+- Ehrenwörtliche Erklärung*
+
+Dabei sind das Inhaltsverzeichnis, das Abbildungsverzeichnis, das Tabellenverzeichnis, das Abkürzungsverzeichnis, das Literaturverzeichnis und die Ehrenwörtliche Erklärung als verpflichtend gekennzeichnet
