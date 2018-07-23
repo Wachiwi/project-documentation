@@ -55,11 +55,11 @@ Hierbei können die einzelnen Hierarchieebenen durch eine eingerückte Liste ode
 
 **README.md**
 
-Die Datei README.md erfüllt nach Gitbook die Funktion der Kurzübersicht über den Inhalt zu geben. Daher eignet sich diese Datei besonders für Abstracts.
+Die Datei _README.md_ erfüllt nach Gitbook die Funktion der Kurzübersicht über den Inhalt zu geben. Daher eignet sich diese Datei besonders für Abstracts.
 
 **GLOSSARY.md**
 
-Die GLOSSARY.md Datei ist eine Hilfsdatei, die einen Glossar beinhaltet und die Verwendung der Glossarbegriffe in allen Inhalten verknüpft. Hierbei ist zu beachten, dass die Glossarbegriffe in einer entsprechenden Form notiert werden müssen. Die Glossarbegriffe müssen in Markdown mit einer Überschrift der zweiten Ebene beschrieben werden. Der darauf folgende Absatz ist dann die Beschreibung des Glossarbegriffs. Wie dieser Glossarbegriff dann im Text beispielsweise der Webansicht verwendet wird ist in der unten dargestellten Grafik dargestellt. Der Glossarbegriff wird unterstrichen und verlinkt. Bewegt man die Maus über den Begriff wird die Bedeutung angezeigt bzw. man kann darauf klicken und wird zum Glossar weitergeleitet.
+Die _GLOSSARY.md_ Datei ist eine Hilfsdatei, die einen Glossar beinhaltet und die Verwendung der Glossarbegriffe in allen Inhalten verknüpft. Hierbei ist zu beachten, dass die Glossarbegriffe in einer entsprechenden Form notiert werden müssen. Die Glossarbegriffe müssen in Markdown mit einer Überschrift der zweiten Ebene beschrieben werden. Der darauf folgende Absatz ist dann die Beschreibung des Glossarbegriffs. Wie dieser Glossarbegriff dann im Text beispielsweise der Webansicht verwendet wird ist in der unten dargestellten Grafik dargestellt. Der Glossarbegriff wird unterstrichen und verlinkt. Bewegt man die Maus über den Begriff wird die Bedeutung angezeigt bzw. man kann darauf klicken und wird zum Glossar weitergeleitet.
 
 ![Eingliederung eines Glossarbegriffs im Fließtext](/img/glossar-use.png)
 
