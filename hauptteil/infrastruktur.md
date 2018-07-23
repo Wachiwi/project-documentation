@@ -8,7 +8,4 @@ In allen Fällen muss eine technische Infrastruktur innerhalb der Hochschule ode
 - **Authentifiziert**: Für alle authentifizierten Personen, beispielsweise Hochschulmitglieder, verfügbar.
 - **Öffentlich**: Für alle Besucher der Plattform verfügbar.
 
-Die bereits erwähnte Infrastruktur wäre in diesem Fall eine Softwareplattform, welche die Verwaltung von Dokumenten ermöglicht und auch gleichzeitig die Bereitstellung erledigt. 
-
-
-Das Dokument in Form einer Website oder eines PDFs ist in beiden Fällen ein statischer Inhalt, kann also durch einen Webserver statisch bereitgestellt werden. 
+Die bereits erwähnte Infrastruktur wäre in diesem Fall eine Softwareplattform, welche die Verwaltung von Dokumenten ermöglicht und auch gleichzeitig die Bereitstellung erledigt. Der einfachste Fall vorerst wäre, dass die Webseiten und PDFs über einen Webserver statisch zur Verfügung gestellt werden. Abhängig vom Ort des Webserver ergibt sich auch eine eingeschränkte Verfügbarkeit der Dokumente.
