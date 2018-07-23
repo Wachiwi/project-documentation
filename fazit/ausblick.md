@@ -1,0 +1,3 @@
+
+- Plugins für verzeichnisse
+- Theme

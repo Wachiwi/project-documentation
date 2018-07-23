@@ -26,9 +26,9 @@
 * [Theming](hauptteil/theming.md)
 * [Infrastruktur](hauptteil/infrastruktur.md)
 
-## Fazit & Ausblick
+## Zusammenfassung & Ausblick
 
-* [Fazit](fazit/fazit.md)
+* [Zusammenfassung](fazit/fazit.md)
 * [Ausblick](fazit/ausblick.md)
 
 ---
