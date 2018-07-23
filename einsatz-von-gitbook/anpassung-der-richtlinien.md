@@ -12,4 +12,5 @@ Einerseits sind in den formalen Richtlinien die Abgabeformate enthalten, welche 
 > - selbsterstellte Unterlagen (z.B. Folien, Poster) des Bc/Master Seminars
 > - halb- bis dreiviertel- seitiges Abstract Ihrer Bachelorarbeit in Deutsch und Englisch
 > - halb- bis dreiviertel- seitiges Abstract Ihrer Masterarbeit in Deutsch und Englisch
-> <hr/>  {{ "Richtlinien2015" | cite }}
+
+Relevante Informationen hierbei sind, dass sowohl der Orginaltext, als auch ein PDF benötigt wird. Weiter auch, dass ein deutsches und ein englisches Abstract in dem Dokument beinhaltet sein soll. Diese soll nur dahingehend verändert werden, dass anstatt eines Word-Dokuments bzw. des Latex-Codes das Gitbook-Projekt abgegeben wird.
