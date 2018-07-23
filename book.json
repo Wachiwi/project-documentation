@@ -19,6 +19,9 @@
   "pluginsConfig": {
     "bibtex-indexed-cite": {
       "path": "./literature.bib"
+    },
+    "image-captions": {
+      "variable_name": "pictures"
     }
   },
   "structure": {},
