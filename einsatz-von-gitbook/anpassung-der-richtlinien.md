@@ -12,8 +12,4 @@ Einerseits sind in den formalen Richtlinien die Abgabeformate enthalten, welche 
 > - selbsterstellte Unterlagen (z.B. Folien, Poster) des Bc/Master Seminars
 > - halb- bis dreiviertel- seitiges Abstract Ihrer Bachelorarbeit in Deutsch und Englisch
 > - halb- bis dreiviertel- seitiges Abstract Ihrer Masterarbeit in Deutsch und Englisch
-> <br/> --- {{ "Richtlinien2015" | cite }}
-
-
-
----
+> <hr/>  {{ "Richtlinien2015" | cite }}
