@@ -32,7 +32,7 @@
 * [Verzeichnisse](hauptteil/projektstruktur/verzeichnisse.md)
 * [Styling](hauptteil/styling.md)
 * [Theming](hauptteil/theming.md)
-* [Infrastruktur](hauptteil/infrastruktur.md)
+* [Bereitstellung](hauptteil/infrastruktur.md)
 
 ## Zusammenfassung & Ausblick
 
