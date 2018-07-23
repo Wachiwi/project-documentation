@@ -2,7 +2,7 @@
 
 Wie vorhin schon beschrieben ist ein Unterschied, dass ein Gitbook eine spezifische Struktur besitzt, welche über mehrere Dateien aufgeteilt ist. Wie diese Struktur aufgebaut ist, wird im Folgenden beschrieben und noch erweitert.
 
-Die Projektstruktur baut auf der standardmäßigen Struktur von Gitbook auf. Dabei sind relevante Dateien und Ordner die Dateien _book.json_, _SUMMARY.md_, _README.md_ und _GLOSSARY.md_ {{ "Gitbook2018b" | cite }}. Diese geben die Grundstruktur vor, welche durch die Ordner _Einleitung_, _Grundlagen_, _Hauptteil_ und _Fazit_ ergänzt wird. Der Zweck davon ist, dass sie einen organisatorischen und logischen Zweck erfüllen, um eine bessere Übersichtlichkeit über den Inhalt der Kapitel zu schaffen. Eine Übersicht über die Dateistruktur wird im folgenden Quellcodeabschnitt aufgezeigt. Weiter soll im folgenden auf die Bedeutung der einzelnen Komponenten  eingegangen werden.
+Die Projektstruktur baut auf der standardmäßigen Struktur von Gitbook auf. Dabei sind relevante Dateien und Ordner die Dateien _book.json_, _SUMMARY.md_, _README.md_ und _GLOSSARY.md_ {{ "Gitbook2018b" | cite }}. Diese geben die Grundstruktur vor, welche durch die Ordner _Einleitung_, _Grundlagen_, _Hauptteil_ und _Fazit_ ergänzt wird. Der Zweck davon ist, dass sie einen organisatorischen und logischen Zweck erfüllen, um eine bessere Übersichtlichkeit über den Inhalt der Kapitel zu schaffen. Eine Übersicht über die Dateistruktur wird im folgenden Quellcodeabschnitt aufgezeigt. Weiter soll in den Folgenden Unterkapiteln auf die Bedeutung der einzelnen Strukturkomponenten eingegangen werden.
 
 !CAPTION Übersicht über die Projektstruktur
 
