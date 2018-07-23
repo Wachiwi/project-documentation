@@ -21,7 +21,8 @@
       "path": "./literature.bib"
     },
     "image-captions": {
-      "variable_name": "pictures"
+      "variable_name": "pictures",
+      "caption": "Abb. _BOOK_IMAGE_NUMBER_ - _CAPTION_"
     }
   },
   "structure": {},
