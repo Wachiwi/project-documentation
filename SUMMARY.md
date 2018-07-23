@@ -18,6 +18,11 @@
 
 ## Einsatz von Gitbook
 
+* [Unterschied zu Word](einsatz-von-gitbook/unterschied-zu-word.md)
+* Anpassung der Richtlinien
+
+## Proof of Concept
+
 * [Projektstruktur](hauptteil/projektstruktur.md)
   * [Gitbook Struktur](hauptteil/projektstruktur/gitbook-struktur.md)
   * [Eigene Struktur](hauptteil/projektstruktur/eigene-struktur.md)
