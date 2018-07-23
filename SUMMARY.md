@@ -19,7 +19,7 @@
 ## Einsatz von Gitbook
 
 * [Unterschied zu Word](einsatz-von-gitbook/unterschied-zu-word.md)
-* Anpassung der Richtlinien
+* [Anpassung der Richtlinien](einsatz-von-gitbook/anpassung-der-richtlinien.md)
 
 ## Proof of Concept
 
