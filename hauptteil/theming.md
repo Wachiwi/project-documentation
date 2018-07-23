@@ -5,7 +5,7 @@ Unter dem Begriff Theming ist in diesem Kontext die Anpassung des Layouts der We
 Für das in diesem Projekt umgesetzte Theme wurde nur die Datei `summary.html` angepasst. Sie ist für das Navigationsmenü auf der linken Seite verantwortlich.
 
 
-```auto
+```html
 {% macro articles(_articles) %}
     {% for article in _articles %}
         <li class="chapter {% if article.path == file.path and not article.anchor %}active{% endif %}" data-level="{{ article.level }}" {% if article.path %}data-path="{{ article.path|resolveFile }}"{% endif %}>
