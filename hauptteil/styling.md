@@ -2,7 +2,7 @@
 
 Der Bereich Styling orientiert sich an der visuellen Darstellung des Inhaltes. Dazu gehören Werte bzw. Einflussfaktoren wie Schriftart, Schriftgröße, Zeilenabstand etc.. Dazu wurde sich am Coporate Design der Hochschule orientiert, da dies ein modernes Design beinhaltet, welches schon in readktionellen Inhalten erprobt wurde.
 
-Da die im Corporate Design verwendete Schriftart kommerziell ist, wird die Webschriftart des Designsguides verwendet, welche die Schrifart *Roboto* ist.
+Da die im Corporate Design verwendete Schriftart kommerziell ist, wird die Webschriftart des Designsguides verwendet, welche die Schrifart *Roboto* ist. Weiter gibt das Corporate Design die Farben Rot, mit dem Hexwert `#E00034`, Dunkelgrau, mit dem Hexwert `#4B565E`, und Hellgrau, mit dem Hexwert `#EAEBEB`, vor.
 
 
 
