@@ -17,13 +17,13 @@ Relevante Informationen hierbei sind, dass sowohl der Orginaltext, als auch ein 
 
 Weiter soll nach `2.3` der Richtlinien ein Dokument notwendige Verzeichnisse enthalten, damit eine bessere Übersicht über referenzierte Abbildungen, Tabellen etc. ermöglicht wird. Als Verzeichnisse werden hierbei die folgenden aufgeführt:
 
-- Inhaltsverzeichnis*
-- Abbildungsverzeichnis*
-- Tabellenverzeichnis*
+- Inhaltsverzeichnis
+- Abbildungsverzeichnis
+- Tabellenverzeichnis
 - Programmcodeverzeichnis
 - Symbolverzeichnis
-- Abkürzungsverzeichnis*
-- Literaturverzeichnis*
+- Abkürzungsverzeichnis
+- Literaturverzeichnis
 - Glossar
 - Anhang
 - Ehrenwörtliche Erklärung*
