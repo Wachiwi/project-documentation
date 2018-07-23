@@ -5,6 +5,7 @@ Unter dem Begriff Theming ist in diesem Kontext die Anpassung des Layouts der We
 Für das in diesem Projekt umgesetzte Theme wurde nur die Datei `summary.html` angepasst. Sie ist für das Navigationsmenü auf der linken Seite verantwortlich. Darin wurden Gitbook spezifische Informationen herausgenommen und z.B. durch Hinweise auf die Hochschule ersetzt.
 
 
+!CAPTION Anpassung innerhalb der `summary.html`
 ```html
     ...
 
