@@ -46,6 +46,9 @@
 ---
 
 * [Literaturverzeichnis](Literature.md)
+* [Glossar](GLOSSARY.md)
+
+
 
 ## Anhang
 
