@@ -6,6 +6,7 @@ Für das in diesem Projekt umgesetzte Theme wurde nur die Datei `summary.html` a
 
 
 !CAPTION Anpassung innerhalb der `summary.html`
+
 ```html
     ...
 
