@@ -29,4 +29,4 @@ Weiter soll nach `2.3` der Richtlinien ein Dokument notwendige Verzeichnisse ent
 
 Dabei sind das Inhaltsverzeichnis, das Abbildungsverzeichnis, das Tabellenverzeichnis, das Abkürzungsverzeichnis, das Literaturverzeichnis und die Ehrenwörtliche Erklärung als verpflichtend gekennzeichnet. Dies soll in der Gitbookvariante dahingehend geändert werden, dass auch der Glossar verpflichtend ist.
 
-Auf die Verzeichnisse folgend werden im Richtliniendokument Darstellungsweisen für Abbildungen, Quellcodeabschnitte und Tabellen vorgegebn bzw. empfohlen. Diese 
+Auf die Verzeichnisse folgend werden im Richtliniendokument Darstellungsweisen für Abbildungen, Quellcodeabschnitte und Tabellen vorgegebn bzw. empfohlen. Diese werden in der Variante mit Gitbook dahingehend angepasst, dass Abbildungen nicht mehr durch ein Rahmen, mehr abgegrenzt werden und Quellcodeabschnitte besser lesbar gemacht werden, indem ihnen automatisch eine Syntaxhervorhebung zugewisen werden soll.
