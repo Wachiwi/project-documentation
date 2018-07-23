@@ -55,7 +55,14 @@ Hierbei können die einzelnen Hierarchieebenen durch eine eingerückte Liste ode
 
 **README.md**
 
-Die Datei _README.md_ erfüllt nach Gitbook die Funktion der Kurzübersicht über den Inhalt zu geben. Daher eignet sich diese Datei besonders für Abstracts, welche ja sowohl in deutscher, als auch in englischer Form enthalten sein müssen.
+Die Datei _README.md_ erfüllt nach Gitbook die Funktion der Kurzübersicht über den Inhalt zu geben. Daher eignet sich diese Datei besonders für Abstracts, welche ja sowohl in deutscher, als auch in englischer Form enthalten sein müssen. Obwohl beide Abstracts in der selben Datei enthalten sind, wird die Datei für die Übersicht trotzdem zweimal in der Datei _SUMMARY.md_ aufgeführt. 
+
+```markdown
+  ...
+  * [Abstract](README.md#abstract_en)
+  * [Abstrakt](README.md#abstract_de)
+  ...
+```
 
 **GLOSSARY.md**
 
