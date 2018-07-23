@@ -21,7 +21,6 @@
 * [Projektstruktur](hauptteil/projektstruktur.md)
   * [Gitbook Struktur](hauptteil/projektstruktur/gitbook-struktur.md)
   * [Eigene Struktur](hauptteil/projektstruktur/eigene-struktur.md)
-* [Bewertungskriterien](hauptteil/bewertungskriterien.md)
 * [Styling](hauptteil/styling.md)
 * [Theming](hauptteil/theming.md)
 * [Infrastruktur](hauptteil/infrastruktur.md)
