@@ -14,5 +14,5 @@ Für das in diesem Projekt umgesetzte Theme wurde nur die Datei `summary.html` a
           <img src="https://www.hs-coburg.de/typo3conf/ext/in2template/Resources/Public/Images/hochschule-coburg_logo.png"/>
         </a>
     </li>
-</ul>
+    ...
 ```
