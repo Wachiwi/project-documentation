@@ -14,3 +14,5 @@ Einerseits sind in den formalen Richtlinien die Abgabeformate enthalten, welche 
 > - halb- bis dreiviertel- seitiges Abstract Ihrer Masterarbeit in Deutsch und Englisch
 
 Relevante Informationen hierbei sind, dass sowohl der Orginaltext, als auch ein PDF benötigt wird. Weiter auch, dass ein deutsches und ein englisches Abstract in dem Dokument beinhaltet sein soll. Diese soll nur dahingehend verändert werden, dass anstatt eines Word-Dokuments bzw. des Latex-Codes das Gitbook-Projekt abgegeben wird.
+
+Weiter soll ein Dokument notwendige Verzeichnisse enthalten, damit eine bessere Übersicht über referenzierte Abbildungen, Tabellen etc. ermöglicht wird. 
