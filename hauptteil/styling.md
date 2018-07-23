@@ -4,10 +4,6 @@ Der Bereich Styling orientiert sich an der visuellen Darstellung des Inhaltes. D
 
 Da die im Corporate Design verwendete Schriftart kommerziell ist, wird die Webschriftart des Designsguides verwendet, welche die Schrifart *Roboto* ist. Weiter gibt das Corporate Design die Farben _Rot_, mit dem Hexwert `#E00034`, _Dunkelgrau_, mit dem Hexwert `#4B565E`, und _Hellgrau_, mit dem Hexwert `#EAEBEB`, vor. Die Farbe Rot wird hierbei bei Verknüpfungen zwischen Seiten, die Farbe Dunkelgrau als allgemeine Schriftfarbe und das Hellgrau als Kontrastfarbe. 
 
-
-
-
-
 !CAPTION Stylesheet für das Corporate Design
 ```
 * {
