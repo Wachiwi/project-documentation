@@ -9,4 +9,4 @@ Aus der Notwendigkeit, dass sich in diese Dokumente eingearbeitet werden musste,
 
 # Projektziel
 
-Dieses Dokument versucht die Methodiken des wissenschaftlichen Arbeiten mit modernen Hilfsmitteln zu kombinieren und die oben angesprochenen Probleme, vor allem in Bezug auf die oben genannten Vorlesungen, zu lösen. Jedoch wird auch versucht einen allgemeineren Ansatz zu gehen, damit die Thematik mehreren Dozenten vorgestellt werden kann und von diesen Feedback eingeholt werden kann.
+Dieses Dokument versucht die Methoden des wissenschaftlichen Arbeitens mit modernen Hilfsmitteln zu kombinieren und die oben angesprochenen Probleme, vor allem in Bezug auf die oben genannten Vorlesungen, zu lösen. Jedoch wird auch versucht einen allgemeineren Ansatz zu gehen, damit die Thematik mehreren Dozenten vorgestellt werden kann und von diesen Feedback eingeholt werden kann.
