@@ -2,9 +2,10 @@
 
 Gitbook ist eine auf JavaScript basierende Software, welche es ermöglicht mit Hilfe von Markdown, HTML, CSS und JavaScript eine Online-Dokumentation, PDFs oder epubs zu erstellen. Sie ist unter der Apache 2.0 Lizenz veröffentlicht und Open Source auf Github einzusehen. Die Software selbst ist eine Software ohne grafische Benutzeroberfläche und wird über die Kommandozeile bedient.
 
-Der Name der Software besteht aus zwei Teilen, welche auch die besonderen Merkmale der Software kennzeichnen. Einerseits ist da der erste Teil des Namens, welcher _Git_ lautet. Dieser steht dafür das die erstellte Dokumentation mit dem Versionskontrollsystem Git verwaltet werden kann. Diese ermöglicht ein vereinfachtes arbeiten von mehreren Personen an einem Projekt, sowie eine Versionierung der Dokumentation. Dadurch kann im Falle eines Fehlers bzw. aus anderen Gründen eine bestimmte Version der Dokumentation bzw. eines ihrer Abschnitte wiederhergestellt werden.
+Der Name der Software besteht aus zwei Teilen, welche auch die besonderen Merkmale der Software kennzeichnen. Einerseits ist da der erste Teil des Namens, welcher Git lautet. Dieser steht dafür das die erstellte Dokumentation mit dem Versionskontrollsystem Git verwaltet werden kann. Diese ermöglicht ein vereinfachtes arbeiten von mehreren Personen an einem Projekt, sowie eine Versionierung der Dokumentation. Dadurch kann im Falle eines Fehlers bzw. aus anderen Gründen eine bestimmte Version der Dokumentation bzw. eines ihrer Abschnitte wiederhergestellt werden.
 
 Andererseits verwaltet Gitbook, wie der zweite Teil des Namens andeutet, sogenannte _books_. Deren Struktur bzw. Aufbau ist über eine vorgegebene Ordnerstruktur bzw. Dateien vorgegeben, jedoch wird eine Konfiguration bzw. Individualisierung über entsprechende Dateien ermöglicht.
+
 
 ## Funktionen
 
