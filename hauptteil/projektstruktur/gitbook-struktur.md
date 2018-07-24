@@ -4,7 +4,7 @@ Wie im vorherigen Abschnitt schon erwähnt, sind die Dateien _book.json_, _SUMMA
 
 **SUMMARY.md**
 
-Die Datei _SUMMARY.md_ hat die Funktion des Inhaltsverzeichnisses und spiegelt dieses in einer textuellen Beschreibung wieder. Darin werden die Namen der Einträge des Inhaltsverzeichnisses auf Dateien mit dem entsprechenden Inhalt abgebildet. Der Inhalt einer beispielaften Datei ist im folgenden Quellcodeausschnitt dargestellt.
+Die Datei _SUMMARY.md_ hat die Funktion des Inhaltsverzeichnisses und spiegelt dieses in einer textuellen Beschreibung wieder. Darin werden die Namen der Einträge des Inhaltsverzeichnisses auf Dateien mit dem entsprechenden Inhalt abgebildet. Der Inhalt einer beispielhaften Datei ist im folgenden Quellcodeausschnitt dargestellt.
 
 !CAPTION Beispielhafte SUMMARY.md
 ```markdown
