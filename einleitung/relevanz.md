@@ -17,5 +17,4 @@ Punkt D4 ist erfüllt, da es ein vollständig anderer Ansatz ist, der den Umgang
 
 # Abgrenzung
 
-Dieses Dokument ist lediglich ein Vorschlag einer Variante für einige Arten der Projektdokumentationen. Dieses Konzept bzw. dieser Vorschlag hat nicht die Absicht bzw. den Umfang die bisherigen Ansätze und Konzepte, welche in der Hochschule Coburg eingesetzt werden, zu ersetzen. Welche Arten von Projekten für diese Art der Projektdokumentation geeignet sind wird in diesem Dokument an einer anderen Stelle detaillierter dargestellt.
-Weiter ist hier dargestellte Konzept in keinster Weise vollständig. Es soll auf andere Vorlesungen und Bewertungskriterien anpassbar sein können und für diese angepasst werden können.
+Dieses Dokument ist lediglich ein Vorschlag einer Variante für einige Arten der Projektdokumentationen. Dieses Konzept bzw. dieser Vorschlag hat nicht die Absicht bzw. den Umfang die bisherigen Ansätze und Konzepte, welche in der Hochschule Coburg eingesetzt werden, zu ersetzen. Welche Arten von Projekten für diese Art der Projektdokumentation geeignet sind wird in diesem Dokument an einer anderen Stelle detaillierter dargestellt. Weiter ist hier dargestellte Konzept in keinster Weise vollständig. Es soll auf andere Vorlesungen und Bewertungskriterien anpassbar sein können und für diese angepasst werden können.
