@@ -1,6 +1,6 @@
 ## Gitbook Struktur
 
-Wie im vorherigen Abschnitt schon erwähnt, sind die Dateien book.json, SUMMARY.md, README.md und GLOSSARY.md und deren Bedeutung durch Gitbook initial vorgegeben. Jede dieser Dateien hat eine spezielle Bedeutung in einem Gitbook, welche nun erläutert werden soll {{ "Gitbook2018b" | cite }}.
+Wie im vorherigen Abschnitt schon erwähnt, sind die Dateien _book.json_, _SUMMARY.md_, _README.md_ und _GLOSSARY.md_ und deren Bedeutung durch Gitbook initial vorgegeben. Jede dieser Dateien hat eine spezielle Bedeutung in einem Gitbook, welche nun erläutert werden soll {{ "Gitbook2018b" | cite }}.
 
 **SUMMARY.md**
 
