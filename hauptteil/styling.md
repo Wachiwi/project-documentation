@@ -1,6 +1,6 @@
-## Styling {styling}
+## Styling
 
-DDer Bereich Styling orientiert sich an der visuellen Darstellung des Inhaltes. Dazu gehören Werte bzw. Einflussfaktoren wie Schriftart, Schriftgröße, Zeilenabstand etc., welche auch im Richtliniendokument vorgegeben sind. Jedoch sind diese nur als Empfehlung zu sehen und deshalb wurde sich am Coporate Design der Hochschule orientiert. Dies repräsentiert ein modernes Design, welches schon in redaktionellen Inhalten erprobt wurde. Dadurch ist sichergestellt, dass es gut lesbar ist und eine Zugehörigkeit zur Hochschule ansetzt.
+Der Bereich Styling orientiert sich an der visuellen Darstellung des Inhaltes. Dazu gehören Werte bzw. Einflussfaktoren wie Schriftart, Schriftgröße, Zeilenabstand etc., welche auch im Richtliniendokument vorgegeben sind. Jedoch sind diese nur als Empfehlung zu sehen und deshalb wurde sich am Coporate Design der Hochschule orientiert. Dies repräsentiert ein modernes Design, welches schon in redaktionellen Inhalten erprobt wurde. Dadurch ist sichergestellt, dass es gut lesbar ist und eine Zugehörigkeit zur Hochschule ansetzt.
 
 Da die im Corporate Design verwendete Schriftart kommerziell ist, wird die Webschriftart des Designguides verwendet, welche die Schriftart Roboto ist. Weiter gibt das Corporate Design die Farben Rot, mit dem Hexwert #E00034, Dunkelgrau, mit dem Hexwert #4B565E, und Hellgrau, mit dem Hexwert #EAEBEB, vor. Die Farbe Rot wird hierbei bei Verknüpfungen zwischen Seiten, die Farbe Dunkelgrau als allgemeine Schriftfarbe und das Hellgrau als Kontrastfarbe.  {{ "HSCoburg2018" | cite }}
 
