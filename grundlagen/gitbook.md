@@ -8,9 +8,7 @@ Andererseits verwaltet Gitbook, wie der zweite Teil des Namens andeutet, sogenan
 
 ## Funktionen
 
-Der in einem _book_ enthaltene Text kann entweder über Markdown bzw. AsciiDoc geschrieben werden. Diese ermöglichen ein einfaches schreiben des Textes ohne sich währenddessen um eine entsprechende Formatierung zu kümmern.
-Weiter kann Gitbook Bücher verwalten, welche in mehreren Sprachen geschrieben sind. Diese Funktionalität ist im Besonderen für die Online-Dokumentation interessant, da die Benutzer interaktiv die Sprache wechseln können bzw. falls ein Abschnitt noch nicht übersetzt wurde, kann auf eine Standardsprache zurückgefallen werden.
-Die oben angesprochene Formatierung des Textes kann über sogenanntes Theming bzw. Templating angepasst werden. Das Templating wird im folgenden Kapitel genauer erklärt bzw. beides wurde im Laufe des Projektes verwendet und wird im Zuge dessen im Hauptteil genauer beschrieben. Zusätzlich zu den genannten Funktionen kann die Software über Plugins erweitert werden, wie beispielsweise, um eine Zitatfunktion bzw. eine Funktion für UML-Diagramme hinzuzufügen.
+Der in einem _book_ enthaltene Text kann entweder über Markdown bzw. AsciiDoc geschrieben werden. Diese ermöglichen ein Einfaches schreiben des Textes ohne sich währenddessen um eine entsprechende Formatierung zu kümmern. Weiter kann Gitbook Bücher verwalten, welche in mehreren Sprachen geschrieben sind. Diese Funktionalität ist im Besonderen für die Online-Dokumentation interessant, da die Benutzer interaktiv die Sprache wechseln können bzw. falls ein Abschnitt noch nicht übersetzt wurde, kann auf eine Standardsprache zurückgefallen werden. Die oben angesprochene Formatierung des Textes kann über sogenanntes Theming bzw. Templating angepasst werden. Das Templating wird im folgenden Kapitel genauer erklärt bzw. beides wurde im Laufe des Projektes verwendet und wird im Zuge dessen im Hauptteil genauer beschrieben. Zusätzlich zu den genannten Funktionen kann die Software über Plugins erweitert werden, wie beispielsweise, um eine Zitatfunktion bzw. eine Funktion für UML-Diagramme hinzuzufügen.
 
 ## Veröffentlichung
 
