@@ -50,9 +50,3 @@
 
 
 
-## Anhang
-
-* [Anhang 1](anhang/a1.md)
-* [Anhang 2](anhang/a2.md)
-* [Anhang 3](anhang/a3.md)
-
