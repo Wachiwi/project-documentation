@@ -9,9 +9,10 @@ Weiter jedoch ist die Relevanz auch aus dem Kontext des Hochschulentwicklungspla
 
 Hinsichtlich des Punktes B9 bietet die Variante, die Möglichkeit, dass Dozenten ihre Vorlesungen interaktiver anbieten können, multimedialer anreichern und anbieten können.
 
-C9 ist relevant, da Gitbook die Möglichkeit bietet Dokumente in verschiedenen Sprachen aus einer Quelle heraus zu generieren, indem es eine besondere Sturktur dafür vorsieht. 
+C9 ist relevant, da Gitbook die Möglichkeit bietet Dokumente in verschiedenen Sprachen aus einer Quelle heraus zu generieren, indem es eine besondere Struktur dafür vorsieht. 
 
 Punkt D4 ist erfüllt, da es ein vollständig anderer Ansatz ist, der den Umgang mit bekannten Medien in verschiedenen Kombinationen und Erweiterungen als Ziel hat. 
+
 
 
 
