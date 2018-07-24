@@ -1,6 +1,6 @@
 # Hintergrund
 
-Das vorliegende Dokument ist in dem Hintergrund entstanden, dass in den Vorlesungen Communication Engineering und Communication Systems Projekte entwickelt werden, welche über einen Zeitraum über ein Semester hinaus verwendet werden. Weiter werden diese Projekte teilweise von mehrere Gruppen von Studierenden aus dem Bachelor und Masterstudiengang bearbeitet. Die bisherige Dokumentationen lagen bisher in Form einer wissenschaftlichen PDF-Datei vor. Diese wiederum wurde von Studierenden verwendet um sich in das Projekt zu Beginn einzuarbeiten und am Ende mit ihrer eigenen Dokumentation auf dieser aufzubauen.
+Das vorliegende Dokument ist in dem Hintergrund entstanden, dass in den Vorlesungen Communication Engineering und Communication Systems Projekte entwickelt werden, welche über einen Zeitraum von ein Semester hinaus verwendet werden. Weiter werden diese Projekte teilweise von mehrere Gruppen von Studierenden aus dem Bachelor und Masterstudiengang bearbeitet. Die bisherige Dokumentationen lagen bisher in Form einer wissenschaftlichen PDF-Datei vor. Diese wiederum wurde von Studierenden verwendet um sich in das Projekt zu Beginn einzuarbeiten und am Ende mit ihrer eigenen Dokumentation auf dieser aufzubauen.
 
 # Problemstellung
 
