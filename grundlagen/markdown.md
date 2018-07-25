@@ -1,11 +1,10 @@
 # Markdown
 
-Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).
+Markdown ist ein Tool, welches ermöglicht, dass Text in HTML umgewandelt wird. Der Text ist dabei leicht zu lesen und leicht zu schreiben, da er durch entsprechend kurze Befehle für eine grundlegende Formatierung unterstützt wird {{ "Markdown2018" | cite }}. Markdown wurde 2004 veröffentlicht und durch die Open Source Community in einige Funktionen erweitert.
 
-Thus, “Markdown” is two things:
+Grundlegende Formatierungsmöglichkeiten, die unterstützt sind fette, kursive Texte, Links, Bilder, Aufzählungen und Überschriften. Das Designziel von Markdown ist, dass diese Formatierungen so lesbar wie möglich gemacht werden, bei der Einschränkung, dass sie teil des Textes sind. Im Vergleich zu LaTex, wo ein Text über den Befehl `\textbf{text}` als fett dargestellt werden kann, ist dieser in Markdown kürzer und einfacher zu schreiben, indem vor und nach dem Bereich der fett dargestellt werden soll folgende Zeichen `**` geschrieben werden. Dadruch ergibt sich dann für das obige Beispiel der folgende Markdown Text: `**text**`
 
-1. a plain text formatting syntax; and
-2. a software tool, written in Perl, that converts the plain text formatting to HTML. See the Syntax page for details pertaining to Markdown’s formatting syntax.
+
 
 
 The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions. While Markdown’s syntax has been influenced by several existing text-to-HTML filters, the single biggest source of inspiration for Markdown’s syntax is the format of plain text email.
