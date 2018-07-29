@@ -6,11 +6,10 @@
   "isbn": "",
   "language": "de",
   "direction": "ltr",
-  "gitbook": "^3.2.3",
+  "gitbook": ">=3.2.3",
   "plugins": [
     "-fontsettings",
     "-sharing",
-    "pretty-term",
     "bibtex-indexed-cite",
     "plantuml-svg",
     "code-captions",
